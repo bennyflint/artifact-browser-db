@@ -1,0 +1,12 @@
+{
+    "id": "com.pm-radgame-client-1.0.4-1200-debug",
+    "name": "radgame-client-1.0.4-1200-debug",
+    "displayName": "Rad Game Client v1.0.4.1200, Debug",
+    "org": "com.pm",
+    "module": "radgame-client",
+    "version": "1.0.4",
+    "integrationRevision": "1200",
+    "classifier": "debug",
+    "created": "2021-09-16T14:04",
+    "labels": ["Broken"]
+}

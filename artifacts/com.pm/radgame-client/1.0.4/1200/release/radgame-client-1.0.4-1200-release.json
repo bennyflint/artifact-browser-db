@@ -1,0 +1,12 @@
+{
+    "id": "com.pm-radgame-client-1.0.4-1200-release",
+    "name": "radgame-client-1.0.4-1200-release",
+    "displayName": "Rad Game Client v1.0.4.1200, Release",
+    "org": "com.pm",
+    "module": "radgame-client",
+    "version": "1.0.4",
+    "integrationRevision": "1200",
+    "classifier": "release",
+    "created": "2021-09-16T14:04",
+    "labels": ["Broken"]
+}
