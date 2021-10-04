@@ -8,5 +8,7 @@
     "integrationRevision": "1200",
     "classifier": "release",
     "created": "2021-09-16T14:04",
-    "labels": ["Broken"]
+    "labels": ["RC", "Broken"],
+    "changes": "Fixed parallel async bug when fetching",
+    "notes": "@sometester Looks like fix didn't work. Marking as Broken."
 }
